@@ -1,0 +1,19 @@
+h2 {
+  color: red;
+}
+
+body {
+  background-color: cornsilk;
+}
+
+#title {
+  color: green;
+  text-shadow: 5px 5px 5px white;
+}
+
+.content {
+  background-color: skyblue;
+}
+input {
+  display: block;
+}
